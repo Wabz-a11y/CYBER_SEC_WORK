@@ -215,7 +215,7 @@ def main():
         else:
             print("1. Register    2. Login   3. Exit")
 
-        print("\n─"*40)
+        print("─"*40)
 
         choice = input("# ").strip()
 
